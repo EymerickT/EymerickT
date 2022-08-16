@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr"></html>
+<!-- Début du head -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ville de Dinant</title>
+    <link rel="shortcut icon" href="Logo dinant 2K.png">
+    <link rel="stylesheet" href="Style.css">
+    <script>
+    </script>
+</head>
+
+<!-- Start du body -->
+
+<body>
+<!-- Enttête -->
+    <header id="header">
+        <img src="Logo Dinant.png" alt="Logo de Dinant" id="logodinant">
+        <nav>
+            <ul>
+                <li class="navbar">
+                    Accueil
+                    <div>
+                        
+                    </div>
+                </li>
+                <li class="navbar">
+                    Patrimoine
+                    <div>
+
+                    </div>
+                </li>
+                <li class="navbar">
+                    Renseignement
+                    <div>
+
+                    </div>
+                </li>
+                <li class="navbar">
+                    Culture
+                    <div>
+
+                    </div>
+                </li>
+                <li class="navbar">
+                    Contact
+                    <div>
+
+                    </div>
+                </li>
+            </nav>
+            <input type="search" name="searchbar" id="searchingbar" placeholder="Pouvons-nous vous aider ?" >
+            </ul>
+    </header>
+    <body>
+        
+    </body>
+        <!-- Footer -->
+    <footer>
+
+    </footer>
+    <!-- Footer terminé -->
+
+
+</body>
+<!-- Code Terminé -->
+</html>
